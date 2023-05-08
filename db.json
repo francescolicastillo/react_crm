@@ -1,0 +1,48 @@
+{
+  "clients": [
+    {
+      "name": "John ",
+      "company": "Amazon",
+      "email": "jhon@mial.com",
+      "phone": "1111",
+      "note": "change mail",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "karen@mail.com",
+      "company": "Google"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@mail.com",
+      "company": "Facebook"
+    },
+    {
+      "id": 4,
+      "name": "Mike",
+      "phone": 319381983,
+      "email": "mike@mail.com",
+      "company": "Twitter"
+    },
+    {
+      "id": 5,
+      "name": "Peter",
+      "phone": 1398198938,
+      "email": "peter@mail.com",
+      "company": "Tesla"
+    },
+    {
+      "name": "Carl",
+      "company": "Jd",
+      "email": "cjd@mail.com",
+      "phone": "123456",
+      "note": "New contact JD",
+      "id": 7
+    }
+  ]
+}
